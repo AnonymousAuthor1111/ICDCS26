@@ -10,7 +10,7 @@ In this work, we are using CUDA 12.5, python 3.11, cmake 3.28.
 ## Build ScaleGANN
 With all packages required for CAGRA and DiskANN, ScaleGANN is able to be built succesfully.
 ```
-git clone --recurse-submodules https://github.com/loulankxh/scaleGANN.git
+git clone https://github.com/AnonymousAuthor1111/SOCC25.git
 mkdir -p build && cd build
 cmake .. && make -j
 ```
